@@ -1,0 +1,89 @@
+﻿
+2018.02.28 17:07:26 (Wed)------------Start of Session-----------------
+Blat v3.2.19 (build : Nov 18 2017 03:15:08)
+64-bit Windows, Full, Unicode
+2018.02.28 17:07:26 (Wed): <<<getline<<< 220 cncproxy-sm2.hmbj.internal ESMTP ready
+2018.02.28 17:07:26 (Wed): >>>putline>>> EHLO desktop-pi4660e
+2018.02.28 17:07:26 (Wed): <<<getline<<< 250-cncproxy-sm2.hmbj.internal
+2018.02.28 17:07:26 (Wed): <<<getline<<< 250-PIPELINING
+2018.02.28 17:07:26 (Wed): <<<getline<<< 250-8BITMIME
+2018.02.28 17:07:26 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2018.02.28 17:07:26 (Wed): <<<getline<<< 250-AUTH PLAIN LOGIN
+2018.02.28 17:07:26 (Wed): <<<getline<<< 250 STARTTLS
+2018.02.28 17:07:26 (Wed): Sending C:\Users\zhangqi\Desktop\dingding\qiweb_auto_log.txt to 908701702@qq.com
+2018.02.28 17:07:26 (Wed): Subject: 钉钉定时签到成功通知
+2018.02.28 17:07:26 (Wed): Login name is zhangqi@dbgo.cn
+2018.02.28 17:07:26 (Wed): Attached binary file: C:\Users\zhangqi\Desktop\dingding\2018-02-28_165954.png
+2018.02.28 17:07:26 (Wed): Attached binary file: C:\Users\zhangqi\Desktop\dingding\2018-02-28_170448.png
+2018.02.28 17:07:26 (Wed): >>>putline>>> AUTH PLAIN  *****
+2018.02.28 17:07:28 (Wed): <<<getline<<< 460 ERR.LOGIN.PASSERR
+2018.02.28 17:07:28 (Wed): *** Warning ***  The SMTP server did not accept Auth PLAIN value.
+*** Warning ***  Are your login userid and password correct?
+2018.02.28 17:07:28 (Wed): >>>putline>>> AUTH LOGIN
+2018.02.28 17:07:28 (Wed): <<<getline<<< 334 VXNlcm5hbWU6
+2018.02.28 17:07:28 (Wed): >>>putline>>> emhhbmdxaUBkYmdvLmNu
+2018.02.28 17:07:28 (Wed): <<<getline<<< 334 UGFzc3dvcmQ6
+2018.02.28 17:07:28 (Wed): >>>putline>>> UUFaMndzeA==
+2018.02.28 17:07:29 (Wed): <<<getline<<< 460 ERR.LOGIN.PASSERR
+2018.02.28 17:07:29 (Wed): *** Warning ***  The SMTP server did not accept Auth LOGIN PASSWD value.
+2018.02.28 17:07:29 (Wed): >>>putline>>> QUIT
+2018.02.28 17:07:29 (Wed): <<<getline<<< 221 2.0.0 Bye
+2018.02.28 17:07:29 (Wed)-------------End of Session------------------
+
+2018.02.28 17:22:46 (Wed)------------Start of Session-----------------
+Blat v3.2.19 (build : Nov 18 2017 03:15:08)
+64-bit Windows, Full, Unicode
+2018.02.28 17:22:47 (Wed): <<<getline<<< 220 cncproxy-sm1.hmbj.internal ESMTP ready
+2018.02.28 17:22:47 (Wed): >>>putline>>> EHLO desktop-pi4660e
+2018.02.28 17:22:47 (Wed): <<<getline<<< 250-cncproxy-sm1.hmbj.internal
+2018.02.28 17:22:47 (Wed): <<<getline<<< 250-PIPELINING
+2018.02.28 17:22:47 (Wed): <<<getline<<< 250-8BITMIME
+2018.02.28 17:22:47 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2018.02.28 17:22:47 (Wed): <<<getline<<< 250-AUTH PLAIN LOGIN
+2018.02.28 17:22:47 (Wed): <<<getline<<< 250 STARTTLS
+2018.02.28 17:22:47 (Wed): Sending C:\Users\zhangqi\Desktop\dingding\qiweb_auto_log.txt to zhangqi@dbgo.cn
+2018.02.28 17:22:47 (Wed): Subject: 钉钉定时签到成功通知
+2018.02.28 17:22:47 (Wed): Login name is zhangqi@dbgo.cn
+2018.02.28 17:22:47 (Wed): Attached binary file: C:\Users\zhangqi\Desktop\dingding\2018-02-28_172009.png
+2018.02.28 17:22:47 (Wed): >>>putline>>> AUTH PLAIN  *****
+2018.02.28 17:22:49 (Wed): <<<getline<<< 460 ERR.LOGIN.PASSERR
+2018.02.28 17:22:49 (Wed): *** Warning ***  The SMTP server did not accept Auth PLAIN value.
+*** Warning ***  Are your login userid and password correct?
+2018.02.28 17:22:49 (Wed): >>>putline>>> AUTH LOGIN
+2018.02.28 17:22:49 (Wed): <<<getline<<< 334 VXNlcm5hbWU6
+2018.02.28 17:22:49 (Wed): >>>putline>>> emhhbmdxaUBkYmdvLmNu
+2018.02.28 17:22:49 (Wed): <<<getline<<< 334 UGFzc3dvcmQ6
+2018.02.28 17:22:49 (Wed): >>>putline>>> UUFaMndzeA==
+2018.02.28 17:22:50 (Wed): <<<getline<<< 460 ERR.LOGIN.PASSERR
+2018.02.28 17:22:50 (Wed): *** Warning ***  The SMTP server did not accept Auth LOGIN PASSWD value.
+2018.02.28 17:22:50 (Wed): >>>putline>>> QUIT
+2018.02.28 17:22:50 (Wed): <<<getline<<< 221 2.0.0 Bye
+2018.02.28 17:22:50 (Wed)-------------End of Session------------------
+
+2018.02.28 17:26:23 (Wed)------------Start of Session-----------------
+Blat v3.2.19 (build : Nov 18 2017 03:15:08)
+64-bit Windows, Full, Unicode
+2018.02.28 17:26:23 (Wed): <<<getline<<< 220 cncproxy-sm1.hmbj.internal ESMTP ready
+2018.02.28 17:26:23 (Wed): >>>putline>>> EHLO desktop-pi4660e
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250-cncproxy-sm1.hmbj.internal
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250-PIPELINING
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250-8BITMIME
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250-AUTH=LOGIN PLAIN
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250-AUTH PLAIN LOGIN
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250 STARTTLS
+2018.02.28 17:26:24 (Wed): Sending C:\Users\zhangqi\Desktop\dingding\qiweb_auto_log.txt to zhangqi@dbgo.cn
+2018.02.28 17:26:24 (Wed): Subject: 钉钉定时签到成功通知
+2018.02.28 17:26:24 (Wed): Login name is zhangqi@dbgo.cn
+2018.02.28 17:26:24 (Wed): Attached binary file: C:\Users\zhangqi\Desktop\dingding\2018-02-28_172009.png
+2018.02.28 17:26:24 (Wed): >>>putline>>> AUTH PLAIN  *****
+2018.02.28 17:26:24 (Wed): <<<getline<<< 235 2.0.0 OK
+2018.02.28 17:26:24 (Wed): >>>putline>>> MAIL FROM:<zhangqi@dbgo.cn> BODY=8BITMIME
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250 Mail OK
+2018.02.28 17:26:24 (Wed): >>>putline>>> RCPT TO:<zhangqi@dbgo.cn>
+2018.02.28 17:26:24 (Wed): <<<getline<<< 250 Mail OK
+2018.02.28 17:26:24 (Wed): >>>putline>>> DATA
+2018.02.28 17:26:24 (Wed): <<<getline<<< 354 End data with <CR><LF>.<CR><LF>
+2018.02.28 17:26:26 (Wed): <<<getline<<< 250 Mail OK queued as smtp10,vOCowABHLK3BdZZak7YwAA--.1S2 1519809987
+2018.02.28 17:26:26 (Wed): >>>putline>>> QUIT
+2018.02.28 17:26:26 (Wed): <<<getline<<< 221 Bye
+2018.02.28 17:26:26 (Wed)-------------End of Session------------------
